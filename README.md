@@ -30,7 +30,10 @@ The project is based on 6 Excel files:
   - Products ↔ Sales (ProductID)  
   - Payment Methods ↔ Sales (PaymentID)  
   - Brands ↔ Products (BrandID)  
-  - Branches ↔ Sales (BranchID)  
+  - Branches ↔ Sales (BranchID)
+    
+  - <img width="1672" height="795" alt="Capture" src="https://github.com/user-attachments/assets/12eaf94e-8d21-497b-b3db-7088e420654d" />
+
 
 ### 🔹 Measures (DAX)
 - Total Sales  
